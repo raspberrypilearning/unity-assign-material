@@ -1,1 +1,1 @@
-Look at your game object in the Inspector. Is your new material added as a component? If not drag it across from the Project window. 
+Controleer je game object in de Inspector. Is je nieuw materiaal als component toegevoegd? Als dit niet het geval is, sleep het vanuit het projectvenster. 
